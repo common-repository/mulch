@@ -1,0 +1,17 @@
+{
+    "name": "gopiy/mulch",
+    "description": "Mulch, a content activation and recommendation platform, understands anonymous website visitors and surfaces personalized content to grow conversions",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Reve Marketing",
+            "email": "tej@revemarketing.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+      "psr-4" : {"mulchInc\\": "./inc"}
+    }
+}
